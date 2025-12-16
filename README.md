@@ -49,19 +49,14 @@ I'm a developer based in Indonesia with experience in mobile and web development
 
 </div>
 
-
-
 ---
 
-### GitHub Stats
+### Currently Working On
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azerusezhar&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azerusezhar&layout=compact&theme=radical&hide_border=true" alt="Top Langs"/>
-</div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=azerusezhar&theme=radical&hide_border=true" alt="GitHub Streak"/>
+[![Discord Presence](https://lanyard.cnrad.dev/api/848475660884377621?theme=dark&bg=1a1b27&borderRadius=10px&animated=true&idleMessage=Not%20coding%20right%20now)](https://discord.com/users/848475660884377621)
+
 </div>
 
 ---
