@@ -1,4 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=180&section=header&text=Azerus%20Ezhar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<div align="center">
+  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDcyamYzNHB2cTB5OXl5aW9qNTF0aWNicjVkazZkOW1vb2JucHQ1YiZlcD12MV9pbnRlcm5hhttps://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDcyamYzNHB2cTB5OXl5aW9qNTF0aWNicjVkazZkOW1vb2JucHQ1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xiYsBnEYwhhy8/giphy.gifbF9naWZfYnlfaWQmY3Q9Zw/xiYsBnEYwhhy8/giphy.gif)" width="600" height="300"/>
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Flutter+%7C+TypeScript+%7C+JavaScript;Building+awesome+things!" alt="Typing SVG" />
