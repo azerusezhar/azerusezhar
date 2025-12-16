@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=100&section=navbar"/>
+
 <div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDcyamYzNHB2cTB5OXl5aW9qNTF0aWNicjVkazZkOW1vb2JucHQ1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xiYsBnEYwhhy8/giphy.gif" width="700" height="300"/>
 </div>
