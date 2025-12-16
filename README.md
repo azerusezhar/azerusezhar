@@ -20,10 +20,6 @@
 
 I'm a developer based in Indonesia with experience in mobile and web development. Currently focused on building scalable applications using Flutter and modern JavaScript frameworks.
 
-**Currently working on:** Hospital Gate Automation System, School Management System
-
-**Experience:** Flutter, Next.js, TypeScript, Node.js
-
 ---
 
 ### Tech Stack
